@@ -1,0 +1,516 @@
+<div className="w-[1440px] h-[15014px] relative bg-neutral-900 overflow-hidden">
+    <div className="w-64 h-44 left-[1816px] top-[746px] absolute origin-top-left rotate-180 bg-stone-600 outline outline-[5.23px] outline-offset-[-2.61px]" />
+    <div className="w-0 h-[1646px] left-[1527px] top-[5088px] absolute origin-top-left rotate-90 outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+    <div className="w-[1440px] left-0 top-0 absolute inline-flex flex-col justify-start items-center gap-24">
+        <div className="w-[1440px] h-[713px] relative bg-neutral-900 overflow-hidden">
+            <div className="w-80 h-80 left-[697px] top-[339px] absolute bg-neutral-700/60 rounded-full blur-[200px]" />
+            <div className="w-80 h-80 left-[1046px] top-[372px] absolute bg-neutral-700/60 rounded-full blur-[200px]" />
+            <div className="w-96 h-96 left-[1116px] top-[526px] absolute bg-neutral-700/50 rounded-full blur-[200px]" />
+            <div className="w-64 h-44 left-[1816px] top-[746px] absolute origin-top-left rotate-180 bg-stone-600 outline outline-[5.23px] outline-offset-[-2.61px]" />
+            <div className="w-[1449px] h-[713px] left-[-6px] top-0 absolute bg-neutral-900/95" />
+            <img className="w-[1440px] h-[576px] left-0 top-[137px] absolute" src="https://placehold.co/1440x576" />
+            <div className="w-14 h-14 left-[1295px] top-[635px] absolute">
+                <div className="w-14 h-14 left-0 top-0 absolute bg-white rounded-full" />
+                <div className="w-8 h-8 left-[12px] top-[12px] absolute overflow-hidden">
+                    <div className="w-8 h-8 left-0 top-0 absolute bg-stone-600" />
+                </div>
+            </div>
+            <img className="w-[772px] h-[597px] left-[355px] top-[116px] absolute" src="https://placehold.co/772x597" />
+            <div className="w-64 left-[1020px] top-[173px] absolute inline-flex flex-col justify-start items-start gap-4">
+                <div className="self-stretch p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] flex flex-col justify-start items-start gap-8 overflow-hidden">
+                    <div className="justify-start text-stone-300 text-base font-medium font-['Manrope'] leading-tight">Списание кредитов: </div>
+                    <div className="justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-tight">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-tight"> 10 МЛН. ₽</span></div>
+                </div>
+                <div className="self-stretch p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] flex flex-col justify-start items-start gap-8 overflow-hidden">
+                    <div className="self-stretch justify-start text-stone-300 text-base font-medium font-['Manrope'] leading-tight">Единовременная выплата при заключении контракта: 
+          </div>
+                    <div className="justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-tight">от</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-tight"> 3 100 000 ₽</span></div>
+                </div>
+                <div className="self-stretch p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] flex flex-col justify-start items-start gap-8 overflow-hidden">
+                    <div className="justify-start text-stone-300 text-base font-medium font-['Manrope'] leading-tight">Ежемесячные выплаты:</div>
+                    <div className="justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-tight">от</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-tight"> 210 000 ₽</span></div>
+                </div>
+                <div className="self-stretch p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] flex flex-col justify-start items-start gap-3 overflow-hidden">
+                    <div className="self-stretch justify-start"><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight">Проезд, проживание и питание по пути в пункт отбора — </span><span class="text-stone-300 text-base font-extrabold font-['Manrope'] leading-tight">бесплатно</span></div>
+                    <div className="self-stretch inline-flex justify-start items-center gap-3">
+                        <div className="flex-1 h-0.5 bg-white" />
+                        <div className="flex-1 h-0.5 bg-stone-500" />
+                        <div className="flex-1 h-0.5 bg-stone-500" />
+                    </div>
+                </div>
+            </div>
+            <div className="w-80 p-6 left-[165px] top-[173px] absolute bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-start items-start gap-8 overflow-hidden">
+                <div className="self-stretch flex flex-col justify-start items-start gap-4">
+                    <div className="self-stretch justify-start text-white text-4xl font-bold font-['Manrope'] uppercase leading-9">Заключи контракт <br/>на СВО</div>
+                    <div className="self-stretch justify-start text-zinc-600 text-xl font-bold font-['Manrope'] uppercase leading-normal">Служба по контракту <br/>в ВС РФ</div>
+                    <div className="w-3 h-[0.56px] origin-top-left -rotate-90 bg-neutral-500" />
+                    <div className="w-3 h-[0.56px] origin-top-left -rotate-90 bg-neutral-500" />
+                    <div className="w-3 h-[0.54px] bg-neutral-500" />
+                    <div className="w-3 h-[0.54px] origin-top-left rotate-180 bg-neutral-500" />
+                    <div className="w-1 h-1 bg-red-600 rounded-full" />
+                </div>
+                <div className="w-72 h-14 bg-red-600 border" />
+                <div className="w-40 h-6 text-center justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Заключить контракт</div>
+                <div className="w-2.5 h-2 bg-white" />
+                <div className="w-2.5 h-2 bg-white" />
+                <div className="w-2.5 h-2 bg-white" />
+                <div className="w-2.5 h-2 bg-white" />
+            </div>
+            <div className="w-[1492px] h-28 left-[-26px] top-0 absolute">
+                <div className="w-[1492px] h-14 left-0 top-[60px] absolute border border-neutral-600" />
+                <div className="w-0 h-14 left-[191px] top-[60.50px] absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-16 left-[191px] top-0 absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-14 left-[424px] top-0 absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-14 left-[593px] top-0 absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-14 left-[1301px] top-[60px] absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-16 left-[1301px] top-0 absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-[1025px] left-[234px] top-[77px] absolute inline-flex justify-between items-start">
+                    <div className="flex justify-start items-center gap-[5px]">
+                        <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Вакансии</div>
+                        <div className="w-1.5 h-[3px] shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-0.50px] outline-red-600" />
+                    </div>
+                    <div className="flex justify-start items-center gap-[5px]">
+                        <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Условия приема</div>
+                        <div className="w-1.5 h-[3px] shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-0.50px] outline-red-600" />
+                    </div>
+                    <div className="flex justify-start items-center gap-[5px]">
+                        <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Денежное довольствие</div>
+                        <div className="w-1.5 h-[3px] shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-0.50px] outline-red-600" />
+                    </div>
+                    <div className="flex justify-start items-center gap-[5px]">
+                        <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Выплаты и соц гарантии</div>
+                        <div className="w-1.5 h-[3px] shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-0.50px] outline-red-600" />
+                    </div>
+                    <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Военные комиссариаты</div>
+                    <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Наши герои</div>
+                    <div className="justify-start text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug">Контакты</div>
+                </div>
+                <div className="left-[460px] top-[35px] absolute justify-start text-neutral-400 text-[10px] font-normal font-['Manrope'] leading-[10px]">Выбрать другой город</div>
+                <div className="left-[460px] top-[18px] absolute justify-start text-neutral-200 text-sm font-semibold font-['Manrope'] leading-[10px]">Хабаровск</div>
+                <div className="left-[609px] top-[20px] absolute justify-start text-white text-base font-bold font-['Manrope'] uppercase leading-tight">+7 (343) 229-05-11</div>
+                <div className="left-[763px] top-[20px] absolute justify-start text-white text-base font-bold font-['Manrope'] uppercase leading-tight">+7 (343) 374-55-33</div>
+                <div className="w-24 h-6 left-[968px] top-[15.73px] absolute opacity-60 justify-start text-white text-xs font-normal font-['Manrope'] leading-none">бесплатно<br/>по всей России</div>
+                <div className="left-[931px] top-[20px] absolute justify-start text-white text-lg font-bold font-['Manrope'] uppercase leading-tight">112</div>
+                <div className="w-48 h-8 px-3.5 py-[5px] left-[1079px] top-[11.11px] absolute bg-red-600 outline outline-1 outline-offset-[-1px] inline-flex justify-center items-center gap-2.5">
+                    <div className="justify-start text-white text-xs font-medium font-['Manrope'] leading-snug">Заполнить форму на службу</div>
+                </div>
+                <div className="w-36 h-7 left-[264px] top-[14.81px] absolute opacity-70 justify-start text-white text-[9px] font-normal font-['Manrope'] leading-none">Поступай на службу по контракту от Свердловской области!</div>
+                <img className="w-14 h-10 left-[203px] top-[11px] absolute" src="https://placehold.co/53x39" />
+                <div className="w-1.5 h-[3px] left-[571px] top-[40px] absolute shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-0.50px] outline-red-600" />
+                <div className="w-14 h-5 left-[698px] top-[19px] absolute bg-gradient-to-l from-zinc-900 to-stone-900/0" />
+                <div className="w-16 h-5 left-[845px] top-[20px] absolute bg-gradient-to-l from-zinc-900 to-stone-900/0" />
+                <div className="w-3.5 h-3.5 left-[440px] top-[16px] absolute overflow-hidden">
+                    <div className="w-3.5 h-3.5 left-0 top-0 absolute" />
+                    <div className="w-2 h-3 left-[2.92px] top-[1.17px] absolute bg-red-600" />
+                </div>
+            </div>
+        </div>
+        <div className="flex flex-col justify-start items-start gap-14">
+            <div className="self-stretch inline-flex justify-start items-start gap-14">
+                <div className="justify-start text-white text-5xl font-bold font-['Manrope'] uppercase leading-[66px]">Вакансии</div>
+            </div>
+            <div className="w-[1110px] flex flex-col justify-center items-center gap-7">
+                <div className="self-stretch inline-flex justify-start items-center gap-2.5">
+                    <div className="flex-1 flex justify-start items-start gap-7 flex-wrap content-start">
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-red-600 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-red-600" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="w-80 h-[501px] relative bg-stone-900 outline outline-1 outline-offset-[-1px] outline-stone-500 overflow-hidden">
+                            <div className="w-80 px-10 py-5 left-0 top-[424.96px] absolute bg-neutral-900 outline outline-1 outline-offset-[-1px] outline-stone-500 inline-flex justify-between items-center">
+                                <div className="justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Оставить заявку</div>
+                                <div className="w-9 h-9 bg-neutral-900" />
+                                <div className="w-1.5 h-3 bg-red-600 outline outline-1 outline-offset-[-0.50px] outline-white" />
+                            </div>
+                            <img className="w-80 h-64 left-0 top-[-0.04px] absolute" src="https://placehold.co/350x259" />
+                            <div className="w-72 left-[20px] top-[278.96px] absolute inline-flex flex-col justify-start items-start gap-6">
+                                <div className="self-stretch justify-start text-white text-2xl font-semibold font-['Manrope'] uppercase leading-relaxed">гранатометчик<br/></div>
+                                <div className="self-stretch flex flex-col justify-start items-start gap-0.5">
+                                    <div className="self-stretch justify-start text-neutral-400 text-base font-bold font-['Manrope'] uppercase leading-snug">в месяц:</div>
+                                    <div className="self-stretch justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-none">ДО</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-relaxed"> </span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-normal">232 000. ₽</span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="px-4 py-1.5 bg-red-600 outline outline-1 outline-offset-[-1px] inline-flex justify-center items-center gap-2.5">
+                    <div className="justify-start text-white text-xs font-medium font-['Manrope'] leading-snug">Смотреть больше</div>
+                </div>
+                <div className="w-[1110px] h-96 relative">
+                    <div className="w-[1110px] h-96 left-0 top-0 absolute bg-stone-900 border" />
+                    <div className="w-[530px] h-32 left-[60px] top-[54px] absolute justify-start text-white text-3xl font-bold font-['Manrope'] uppercase leading-10">Если ты готов пойти<br/>на службу и защитить Родину</div>
+                    <div className="w-60 h-5 left-[721px] top-[255px] absolute opacity-60 justify-start text-white text-lg font-normal font-['Manrope'] leading-tight">бесплатно по всей России</div>
+                    <div className="left-[721px] top-[216px] absolute justify-start text-white text-3xl font-bold font-['Manrope'] uppercase leading-relaxed">112, 117</div>
+                    <div className="w-9 h-9 left-[665px] top-[103px] absolute bg-stone-600 rounded-full" />
+                    <div className="w-9 h-9 left-[665px] top-[212px] absolute bg-stone-600 rounded-full" />
+                    <div className="w-4 h-4 left-[674px] top-[112px] absolute overflow-hidden">
+                        <div className="w-4 h-4 left-0 top-0 absolute" />
+                        <div className="w-3.5 h-3.5 left-[2.25px] top-[2.25px] absolute bg-white" />
+                    </div>
+                    <div className="w-4 h-4 left-[674px] top-[221px] absolute overflow-hidden">
+                        <div className="w-4 h-4 left-0 top-0 absolute" />
+                        <div className="w-3.5 h-3.5 left-[2.25px] top-[2.25px] absolute bg-white" />
+                    </div>
+                    <div className="w-4 h-4 left-[674px] top-[220px] absolute" />
+                    <div className="left-[60px] top-[142px] absolute justify-start text-zinc-600 text-2xl font-bold font-['Manrope'] uppercase leading-[58px]">оставь заявку ниже</div>
+                    <div className="w-64 h-14 left-[64px] top-[245px] absolute bg-red-600 border" />
+                    <div className="left-[127px] top-[263.75px] absolute justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Пойти на службу</div>
+                    <div className="w-2 h-2 left-[311px] top-[245px] absolute bg-white" />
+                    <div className="w-2 left-[64px] top-[245px] absolute inline-flex flex-col justify-start items-start gap-11">
+                        <div className="self-stretch h-2 bg-white" />
+                        <div className="self-stretch h-2 bg-white" />
+                    </div>
+                    <div className="w-2 h-2 left-[311px] top-[297px] absolute bg-white" />
+                    <div className="left-[721px] top-[105px] absolute justify-start"><span class="text-zinc-600 text-3xl font-bold font-['Manrope'] uppercase leading-7">+7 (343)</span><span class="text-white text-3xl font-bold font-['Manrope'] uppercase leading-7"> 229-05-11</span></div>
+                    <div className="left-[721px] top-[150.22px] absolute justify-start"><span class="text-zinc-600 text-3xl font-bold font-['Manrope'] uppercase leading-7">+7 (343)</span><span class="text-white text-3xl font-bold font-['Manrope'] uppercase leading-7"> 374-55-33</span></div>
+                </div>
+            </div>
+        </div>
+        <div className="flex flex-col justify-start items-start gap-12">
+            <div className="justify-start text-white text-5xl font-bold font-['Manrope'] uppercase leading-[66px]">Новости</div>
+            <div className="self-stretch inline-flex justify-start items-center gap-7">
+                <div className="w-[540px] h-80 relative overflow-hidden">
+                    <div className="w-[540px] h-80 left-0 top-0 absolute border border-zinc-600" />
+                    <div className="w-60 h-80 left-0 top-0 absolute overflow-hidden">
+                        <img className="w-64 h-80 left-[-6px] top-0 absolute" src="https://placehold.co/252x319" />
+                    </div>
+                    <div className="w-64 left-[260px] top-[233px] absolute justify-start text-zinc-400 text-base font-normal font-['Manrope'] leading-snug">Ежегодный оплачиваемый проезд к месту проведения отпуска <br/>и обратно</div>
+                    <div className="w-64 left-[260px] top-[20px] absolute inline-flex flex-col justify-start items-start gap-4">
+                        <div className="p-2.5 bg-stone-600 inline-flex justify-center items-center gap-2.5">
+                            <div className="justify-start text-white text-xs font-bold font-['Manrope'] uppercase leading-3">05.12.24</div>
+                        </div>
+                        <div className="self-stretch justify-start text-white text-base font-bold font-['Manrope'] uppercase leading-snug">Здесь будет новость <br/>в несколько строк</div>
+                    </div>
+                </div>
+                <div className="w-[540px] h-80 relative overflow-hidden">
+                    <div className="w-[540px] h-80 left-0 top-0 absolute border border-zinc-600" />
+                    <div className="w-64 left-[260px] top-[233px] absolute justify-start text-zinc-400 text-base font-normal font-['Manrope'] leading-snug">Ежегодный оплачиваемый проезд к месту проведения отпуска <br/>и обратно</div>
+                    <div className="w-64 left-[260px] top-[20px] absolute inline-flex flex-col justify-start items-start gap-4">
+                        <div className="p-2.5 bg-stone-600 inline-flex justify-center items-center gap-2.5">
+                            <div className="justify-start text-white text-xs font-bold font-['Manrope'] uppercase leading-3">05.12.24</div>
+                        </div>
+                        <div className="self-stretch justify-start text-white text-base font-bold font-['Manrope'] uppercase leading-snug">Здесь будет новость <br/>в несколько строк</div>
+                    </div>
+                    <div className="w-60 h-80 left-0 top-0 absolute overflow-hidden">
+                        <img className="w-64 h-80 left-[-6px] top-0 absolute" src="https://placehold.co/252x319" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div className="w-[1110px] flex flex-col justify-start items-start gap-12">
+            <div className="self-stretch h-28 justify-start text-zinc-600 text-4xl font-bold font-['Manrope'] uppercase leading-[58px]">по контракту в ИМЕННЫЕ УРАЛЬСКИЕ ДОБРОВОЛЬЧЕСКИЕ БАТАЛЬОНы</div>
+            <div className="self-stretch inline-flex justify-start items-center gap-7">
+                <div className="w-[540px] h-80 relative">
+                    <div className="w-[540px] h-80 left-0 top-0 absolute border border-zinc-600" />
+                    <div className="w-28 h-9 left-[40px] top-[40px] absolute bg-stone-600" />
+                    <div className="left-[61px] top-[47px] absolute justify-start text-white text-base font-bold font-['Manrope'] uppercase leading-snug">Условия</div>
+                    <div className="left-[40px] top-[101px] absolute inline-flex justify-start items-center gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="justify-start"><span class="text-zinc-400 text-lg font-normal font-['Manrope'] leading-snug">Денежное довольствие </span><span class="text-zinc-400 text-lg font-bold font-['Manrope'] leading-snug">от 204 000 рублей</span></div>
+                    </div>
+                    <div className="left-[40px] top-[143px] absolute inline-flex justify-start items-center gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-snug">Полный социальный пакет</div>
+                    </div>
+                    <div className="left-[40px] top-[185px] absolute inline-flex justify-start items-center gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-snug">Меры региональной социальной поддержки</div>
+                    </div>
+                    <div className="left-[40px] top-[227px] absolute inline-flex justify-start items-baseline gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="w-96 justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-relaxed">Ежегодный оплачиваемый проезд к месту проведения отпуска и обратно</div>
+                    </div>
+                </div>
+                <div className="w-[540px] h-80 relative">
+                    <div className="w-[540px] h-80 left-0 top-0 absolute border border-zinc-600" />
+                    <div className="left-[40px] top-[101px] absolute inline-flex justify-start items-center gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-snug">По возрасту - от 18 до 60 лет</div>
+                    </div>
+                    <div className="left-[40px] top-[143px] absolute inline-flex justify-start items-baseline gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="w-64 justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-relaxed">По образованию - не ниже основного общего (9 классов)</div>
+                    </div>
+                    <div className="left-[40px] top-[215px] absolute inline-flex justify-start items-baseline gap-3.5">
+                        <div className="w-2 h-2 bg-stone-600 rounded-full" />
+                        <div className="w-96 justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-relaxed">По здоровью - категории годности «А», «Б», «В» (мед. переосвидетельствование)</div>
+                    </div>
+                    <div className="w-36 h-9 left-[40px] top-[40px] absolute bg-stone-600" />
+                    <div className="left-[61px] top-[47px] absolute justify-start text-white text-base font-bold font-['Manrope'] uppercase leading-snug">требования</div>
+                </div>
+            </div>
+        </div>
+        <div className="w-[1110px] h-64 relative">
+            <img className="w-80 h-64 left-[-165px] top-0 absolute" src="https://placehold.co/331x250" />
+            <div className="left-[373px] top-[126px] absolute text-right justify-start text-zinc-600 text-2xl font-bold font-['Gilroy'] uppercase leading-[50px]">Новых добровольцев за день</div>
+            <div className="left-[373px] top-[2px] absolute text-right justify-start text-white text-8xl font-bold font-['Gilroy'] uppercase leading-[98px]">21 486 человек</div>
+            <div className="w-0 h-[1646px] left-[1363px] top-[252px] absolute origin-top-left rotate-90 outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+            <div className="w-64 h-14 left-[855px] top-[121px] absolute bg-red-600 border" />
+            <div className="w-32 h-6 left-[915px] top-[140px] absolute justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Ты нужен родине</div>
+            <div className="w-2 h-2 left-[855px] top-[121px] absolute bg-white" />
+            <div className="w-2 h-2 left-[1102px] top-[121px] absolute bg-white" />
+            <div className="w-2 h-2 left-[855px] top-[173px] absolute bg-white" />
+            <div className="w-2 h-2 left-[1102px] top-[173px] absolute bg-white" />
+        </div>
+        <div className="w-[1110px] h-[507px] relative">
+            <div className="w-[540px] h-56 left-0 top-[288px] absolute bg-neutral-900/30" />
+            <div className="w-[550px] left-0 top-[11px] absolute justify-start"><span class="text-stone-50 text-lg font-normal font-['Manrope'] leading-7">Граждане прошедшие военную службу по призыву (контракту) и имеющие высшее профессиональное образование, родственное соответсвующей военно-учетной специальности, и поступившие на военную службу по контракту на воинскую должность, для которой штатом предусмотрено воинское звание офицера </span><span class="text-stone-50 text-lg font-semibold font-['Manrope'] leading-7">прививается первое воинское звание офицера Лейтенант</span></div>
+            <div className="w-[532px] left-[570px] top-[299px] absolute justify-start text-stone-50 text-lg font-normal font-['Manrope'] leading-7">Более 3000 военнослужащих заключивших первые (новые) контракты с Министерством обороны Российской Федерации через пункт отбора на военную службу по контракту г. Екатеринбурга  в 2022-2023 году выполняют специальные задачи в рамках Специальной военной операции и более 120 военнослужащих награждены государственными и ведомственными наградами</div>
+            <div className="w-[540px] h-56 left-[570px] top-0 absolute bg-neutral-800/40" />
+        </div>
+        <div className="self-stretch px-40 flex flex-col justify-start items-center gap-14">
+            <div className="self-stretch flex flex-col justify-start items-start gap-14">
+                <div className="self-stretch flex flex-col justify-start items-start gap-5">
+                    <div className="w-[1110px] justify-start text-white text-5xl font-bold font-['Manrope'] uppercase leading-[66px]">ПРЕИМУЩЕСТВА СЛУЖБЫ ПО КОНТРАКТУ</div>
+                    <div className="self-stretch justify-start text-zinc-600 text-2xl font-bold font-['Manrope'] uppercase leading-loose">Подпиши контракт с Министерством обороны РФ, прими участие <br/>в СВО и получи:</div>
+                </div>
+                <div className="w-[1110px] flex flex-col justify-start items-start gap-8">
+                    <div className="self-stretch inline-flex justify-start items-start gap-8 flex-wrap content-start">
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch flex flex-col justify-start items-start gap-3">
+                                <div className="self-stretch justify-start text-stone-300 text-base font-medium font-['Manrope'] leading-tight">Единовременную выплату <br/>в размере </div>
+                                <div className="justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-tight">от</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-tight"> 3 100 000 ₽</span></div>
+                            </div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch flex flex-col justify-start items-start gap-3">
+                                <div className="self-stretch justify-start text-stone-300 text-base font-medium font-['Manrope'] leading-tight">Ежемесячные выплаты </div>
+                                <div className="justify-start"><span class="text-zinc-100 text-base font-extrabold font-['Manrope'] uppercase leading-tight">до</span><span class="text-zinc-100 text-2xl font-extrabold font-['Manrope'] uppercase leading-tight"> 445 000 ₽  </span></div>
+                            </div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch justify-start"><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">Социальные льготы</span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight"> <br/>и </span><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">страховую</span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight"> защиту <br/>для </span><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">членов семьи</span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight"> и </span><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">детей</span></div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch justify-start"><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">Медицинское </span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight">обслуживание <br/>в учреждениях <br/>Минобороны РФ</span></div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch justify-start"><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">Кредитные каникулы, </span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight">обеспечение жильем, бесплатное образование в вузах РФ </span></div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch justify-start"><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">Статус ветерана боевых действий, </span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight">при выполнении условий</span></div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch justify-start"><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">Служебное жильё, </span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight">компенсация за наём</span></div>
+                        </div>
+                        <div className="w-64 h-48 p-4 bg-zinc-900/10 rounded-sm shadow-[0px_4px_4px_0px_rgba(0,0,0,0.25)] outline outline-1 outline-offset-[-1px] outline-stone-500 backdrop-blur-[30px] inline-flex flex-col justify-between items-start overflow-hidden">
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2 h-[0.42px] origin-top-left -rotate-90 bg-white" />
+                            <div className="w-2.5 h-[0.41px] bg-white" />
+                            <div className="w-2.5 h-[0.41px] origin-top-left rotate-180 bg-white" />
+                            <div className="w-[2.95px] h-[2.85px] bg-red-600 rounded-full" />
+                            <div className="self-stretch justify-start"><span class="text-white text-base font-extrabold font-['Manrope'] leading-tight">Поддержка <br/>при увольнении</span><span class="text-stone-300 text-base font-medium font-['Manrope'] leading-tight">, оформление инвалидности, увечье, травмы, контузии <br/>или гибели военнослужащего  </span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div className="w-[1110px] h-[1111px] relative">
+            <div className="w-[1454px] h-[1111px] left-[-173px] top-0 absolute">
+                <div className="w-[1454px] h-[1156px] left-0 top-0 absolute bg-stone-900 border" />
+                <div className="left-[173px] top-[80px] absolute justify-start text-white text-5xl font-bold font-['Manrope'] uppercase leading-[66px]">денежное</div>
+                <div className="left-[173px] top-[146px] absolute justify-start text-zinc-600 text-4xl font-bold font-['Manrope'] uppercase leading-[58px]">довольствие</div>
+                <div className="w-96 h-14 left-[173px] top-[545px] absolute bg-red-600 border" />
+                <div className="left-[212px] top-[564px] absolute justify-start text-white text-base font-medium font-['Manrope'] leading-snug">Посмотреть список документов при подаче</div>
+                <div className="w-2 h-2 left-[173px] top-[545px] absolute bg-white" />
+                <div className="w-2 h-2 left-[582px] top-[545px] absolute bg-white" />
+                <div className="w-2 h-2 left-[173px] top-[597px] absolute bg-white" />
+                <div className="w-2 h-2 left-[582px] top-[597px] absolute bg-white" />
+                <div className="w-96 left-[173px] top-[421px] absolute justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-7">в зависимости от воинского звания, должности, выслуги лет, уровня мастерства и региональных коэффициентов.</div>
+                <div className="w-[540px] left-[743px] top-[465px] absolute justify-start text-zinc-400 text-lg font-normal font-['Manrope'] leading-7">При подписании контракта, граждане могут рассчитывать <br/>на дополнительные выплаты за участие в СВО, включая случаи травмы, ранении, увечье, инвалидности или гибели. <br/>В соответствии с законом 306-ФЗ, страховая выплата предоставляется в полном </div>
+                <div className="left-[743px] top-[398px] absolute text-center justify-start text-zinc-400 text-lg font-semibold font-['Manrope'] leading-normal">при заключении контракта на срок от одного года</div>
+                <div className="left-[173px] top-[284px] absolute justify-start text-zinc-600 text-2xl font-bold font-['Manrope'] uppercase leading-loose">Ежемесячная выплата по контракту</div>
+                <div className="left-[173px] top-[685px] absolute justify-start text-zinc-600 text-2xl font-bold font-['Manrope'] uppercase leading-loose">Выплаты за особые отличия</div>
+                <div className="w-[611px] left-[743px] top-[284px] absolute justify-start text-zinc-600 text-2xl font-bold font-['Manrope'] uppercase leading-loose">Единовременная выплата в размере</div>
+                <div className="left-[173px] top-[332px] absolute justify-start text-white text-4xl font-bold font-['Manrope'] uppercase leading-[49px]">от 210 000 ₽</div>
+                <div className="left-[173px] top-[731px] absolute justify-start text-white text-4xl font-bold font-['Manrope'] uppercase leading-[49px]">в ходе боевых действий:</div>
+                <div className="left-[743px] top-[332px] absolute justify-start text-white text-4xl font-bold font-['Manrope'] uppercase leading-[49px]">3 100 000 ₽</div>
+                <div className="w-0 h-80 left-[708px] top-[287px] absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-[540px] left-[743px] top-[446px] absolute origin-top-left -rotate-90 outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="w-0 h-48 left-[708px] top-[845px] absolute outline outline-1 outline-offset-[-0.50px] outline-neutral-600" />
+                <div className="left-[743px] top-[900px] absolute inline-flex justify-start items-center gap-3.5">
+                    <div className="w-2 h-2 bg-red-600 rounded-full" />
+                    <div className="justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">БПЛА</div>
+                </div>
+                <div className="left-[743px] top-[936px] absolute inline-flex justify-start items-center gap-3.5">
+                    <div className="w-2 h-2 bg-red-600 rounded-full" />
+                    <div className="justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">Боевой машины пехоты (десанта)</div>
+                </div>
+                <div className="left-[743px] top-[972px] absolute inline-flex justify-start items-baseline gap-3.5">
+                    <div className="w-2 h-2 bg-red-600 rounded-full" />
+                    <div className="justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">Зенитно-ракетного комплекса (системы)</div>
+                </div>
+                <div className="left-[743px] top-[1008px] absolute inline-flex justify-start items-baseline gap-3.5">
+                    <div className="w-2 h-2 bg-red-600 rounded-full" />
+                    <div className="justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">Системы залпового огня</div>
+                </div>
+                <div className="left-[173px] top-[845px] absolute justify-start text-white text-3xl font-bold font-['Gilroy'] uppercase leading-loose">200 000 - 300 000 руб.</div>
+                <div className="left-[743px] top-[845px] absolute justify-start text-white text-3xl font-bold font-['Gilroy'] uppercase leading-loose">50 000 руб.</div>
+                <div className="left-[173px] top-[883px] absolute justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">Уничтожение вражеского самолета</div>
+                <div className="w-64 left-[173px] top-[954px] absolute inline-flex flex-col justify-start items-start gap-1.5">
+                    <div className="self-stretch justify-start text-white text-3xl font-bold font-['Gilroy'] uppercase leading-loose">100 000 руб.</div>
+                    <div className="self-stretch justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">Уничтожение вражеского танка</div>
+                </div>
+                <div className="w-64 left-[173px] top-[1044px] absolute inline-flex flex-col justify-start items-start gap-1.5">
+                    <div className="self-stretch justify-start text-white text-3xl font-bold font-['Gilroy'] uppercase leading-loose">ДО 10 МЛН. ₽</div>
+                    <div className="self-stretch justify-start text-zinc-400 text-lg font-normal font-['Gilroy'] leading-snug">Списание кредитов: </div>
+                </div>
+            </div>
+        </div>
+        <div className="w-[1110px] h-[914px] relative">
+            <div className="w-80 h-40 p-5 left-0 top-[187px] absolute outline outline-1 outline-offset-[-1px] outline-neutral-600 inline-flex justify-start items-start gap-2.5">
+                <div className="w-72 justify-start text-white text-sm font-medium font-['Manrope'] leading-normal">Возможность приобрести жилье за счет Минобороны РФ, в том числе через ипотечную программу</div>
+            </div>
+            <div className="w-80 h-40 p-5 left-0 top-[377px] absolute outline outline-1 outline-offset-[-1px] outline-neutral-600 inline-flex justify-start items-start gap-2.5">
+                <div className="w-72 justify-start text-white text-sm font-medium font-['Manrope'] leading-normal">Поддержка членам семьи в случае гибели военнослужащег�

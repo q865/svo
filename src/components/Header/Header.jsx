@@ -1,59 +1,78 @@
 import React from 'react';
-import LocationIcon from '../../assets/icons/LocationIcon';
 import logo from '../../assets/images/logo.png';
+import { ReactComponent as RoomIcon } from '../../assets/icons/Room.svg'; // Assuming you have a chevron icon
+
+const NavLink = ({ children, active = false }) => (
+  <a href="#" className="text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug relative pb-1">
+    {children}
+    {active && <span className="absolute bottom-0 left-0 w-full h-[1.5px] bg-red-600"></span>}
+  </a>
+);
 
 const Header = () => {
   return (
-    <header className="bg-zinc-900 text-neutral-200 font-manrope">
-      <div className="container mx-auto px-4">
-        {/* Top section */}
-        <div className="flex justify-between items-center py-3 border-b border-neutral-800">
-          <div className="flex items-center">
-            <img className="w-14 h-10" src={logo} alt="Logo" />
-            <div className="ml-4">
-              <p className="text-white text-[9px] font-normal leading-none opacity-70">
+    <header className="bg-[#111111] text-white font-['Manrope']">
+      <div className="max-w-screen-xl mx-auto">
+        {/* Top Bar */}
+        <div className="flex items-center justify-between h-16 border-b border-neutral-800">
+          <div className="flex items-center h-full">
+            <div className="flex items-center pr-4 h-full border-r border-neutral-800">
+              <img className="w-14 h-10" src={logo} alt="Logo" />
+            </div>
+            <div className="pl-4">
+              <p className="text-white text-opacity-70 text-[9px] font-normal leading-none max-w-[150px]">
                 Поступай на службу по контракту от Свердловской области!
               </p>
             </div>
           </div>
 
-          <div className="flex items-center space-x-6">
-            <div className="flex items-center">
-              <LocationIcon />
-              <div className="ml-2">
-                <p className="text-neutral-200 text-sm font-semibold leading-[10px]">Хабаровск</p>
-                <p className="text-neutral-400 text-[10px] font-normal leading-[10px]">Выбрать другой город</p>
+          <div className="flex items-center h-full">
+            <div className="flex items-center px-6 h-full border-l border-r border-neutral-800">
+              <RoomIcon className="w-3.5 h-3.5 mr-2" />
+              <div>
+                <p className="text-neutral-200 text-sm font-semibold leading-tight">Хабаровск</p>
+                <p className="text-neutral-400 text-[10px] font-normal leading-tight cursor-pointer hover:text-white">Выбрать другой город</p>
               </div>
             </div>
-
-            <div>
-              <p className="text-white text-base font-bold uppercase leading-tight">+7 (343) 229-05-11</p>
-              <p className="text-white text-base font-bold uppercase leading-tight">+7 (343) 374-55-33</p>
+            <div className="flex items-center px-6 h-full border-r border-neutral-800">
+              <div>
+                <p className="text-white text-base font-bold uppercase leading-tight">+7 (343) 229-05-11</p>
+                <p className="text-white text-base font-bold uppercase leading-tight">+7 (343) 374-55-33</p>
+              </div>
             </div>
-
-            <div className="text-center">
-              <p className="text-white text-lg font-bold uppercase leading-tight">112</p>
-              <p className="text-white text-xs font-normal leading-none opacity-60">бесплатно<br />по всей России</p>
+             <div className="flex items-center px-6 h-full border-r border-neutral-800">
+              <p className="text-white text-lg font-bold uppercase leading-tight mr-2">112</p>
+              <p className="text-white text-opacity-60 text-xs font-normal leading-none max-w-[80px]">
+                бесплатно
+                <br />
+                по всей России
+              </p>
             </div>
+          </div>
 
-            <button className="bg-red-600 text-white px-3.5 py-2 text-xs font-medium leading-snug">
-              Заполнить форму на службу
-            </button>
+          <div className="flex items-center h-full">
+             <div className="px-6 h-full flex items-center border-l border-neutral-800">
+               <button className="px-3.5 py-2 bg-red-600 text-white text-xs font-medium leading-snug">
+                Заполнить форму на службу
+              </button>
+             </div>
           </div>
         </div>
 
-        {/* Bottom navigation section */}
-        <nav className="flex justify-center items-center py-4 text-xs font-semibold">
-          <div className="flex justify-between w-full max-w-5xl">
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Вакансии</a>
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Условия приема</a>
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Денежное довольствие</a>
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Выплаты и соц гарантии</a>
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Военные комиссариаты</a>
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Наши герои</a>
-            <a href="#" className="text-neutral-200 leading-snug hover:text-white">Контакты</a>
-          </div>
-        </nav>
+        {/* Bottom Bar - Navigation */}
+        <div className="h-14 flex items-center justify-center border-b border-neutral-800">
+          <nav>
+            <ul className="flex items-center space-x-12">
+              <li><NavLink active>Вакансии</NavLink></li>
+              <li><NavLink>Условия приема</NavLink></li>
+              <li><NavLink>Денежное довольствие</NavLink></li>
+              <li><NavLink>Выплаты и соц гарантии</NavLink></li>
+              <li><NavLink>Военные комиссариаты</NavLink></li>
+              <li><NavLink>Наши герои</NavLink></li>
+              <li><NavLink>Контакты</NavLink></li>
+            </ul>
+          </nav>
+        </div>
       </div>
     </header>
   );

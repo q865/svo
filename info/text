@@ -1,0 +1,2097 @@
+// Списание кредитов: 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+//  10 МЛН. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// Единовременная выплата при заключении контракта: 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// от
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+//  3 100 000 ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// Ежемесячные выплаты:
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// от
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+//  210 000 ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// Проезд, проживание и питание по пути в пункт отбора — 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// бесплатно
+text-stone-300
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// Заключи контракт <br/>на СВО
+text-white
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-9
+---
+// Служба по контракту <br/>в ВС РФ
+text-zinc-600
+text-xl
+font-bold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Заключить контракт
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Вакансии
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Условия приема
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Денежное довольствие
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Выплаты и соц гарантии
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Военные комиссариаты
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Наши герои
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Контакты
+text-neutral-200
+text-xs
+font-semibold
+font-['Manrope']
+leading-snug
+---
+// Выбрать другой город
+text-neutral-400
+text-[10px]
+font-normal
+font-['Manrope']
+leading-[10px]
+---
+// Хабаровск
+text-neutral-200
+text-sm
+font-semibold
+font-['Manrope']
+leading-[10px]
+---
+// +7 (343) 229-05-11
+text-white
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// +7 (343) 374-55-33
+text-white
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// бесплатно<br/>по всей России
+text-white
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// 112
+text-white
+text-lg
+font-bold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// Заполнить форму на службу
+text-white
+text-xs
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Поступай на службу по контракту от Свердловской области!
+text-white
+text-[9px]
+font-normal
+font-['Manrope']
+leading-none
+---
+// Вакансии
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// гранатометчик<br/>
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// в месяц:
+text-neutral-400
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// ДО
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-none
+---
+//  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// 232 000. ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// Смотреть больше
+text-white
+text-xs
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Если ты готов пойти<br/>на службу и защитить Родину
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-10
+---
+// бесплатно по всей России
+text-white
+text-lg
+font-normal
+font-['Manrope']
+leading-tight
+---
+// 112, 117
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-relaxed
+---
+// оставь заявку ниже
+text-zinc-600
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[58px]
+---
+// Пойти на службу
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// +7 (343)
+text-zinc-600
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-7
+---
+//  229-05-11
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-7
+---
+// +7 (343)
+text-zinc-600
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-7
+---
+//  374-55-33
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-7
+---
+// Новости
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// Ежегодный оплачиваемый проезд к месту проведения отпуска <br/>и обратно
+text-zinc-400
+text-base
+font-normal
+font-['Manrope']
+leading-snug
+---
+// 05.12.24
+text-white
+text-xs
+font-bold
+font-['Manrope']
+uppercase
+leading-3
+---
+// Здесь будет новость <br/>в несколько строк
+text-white
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// Ежегодный оплачиваемый проезд к месту проведения отпуска <br/>и обратно
+text-zinc-400
+text-base
+font-normal
+font-['Manrope']
+leading-snug
+---
+// 05.12.24
+text-white
+text-xs
+font-bold
+font-['Manrope']
+uppercase
+leading-3
+---
+// Здесь будет новость <br/>в несколько строк
+text-white
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// по контракту в ИМЕННЫЕ УРАЛЬСКИЕ ДОБРОВОЛЬЧЕСКИЕ БАТАЛЬОНы
+text-zinc-600
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[58px]
+---
+// Условия
+text-white
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// Денежное довольствие 
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-snug
+---
+// от 204 000 рублей
+text-zinc-400
+text-lg
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Полный социальный пакет
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-snug
+---
+// Меры региональной социальной поддержки
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-snug
+---
+// Ежегодный оплачиваемый проезд к месту проведения отпуска и обратно
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// По возрасту - от 18 до 60 лет
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-snug
+---
+// По образованию - не ниже основного общего (9 классов)
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// По здоровью - категории годности «А», «Б», «В» (мед. переосвидетельствование)
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// требования
+text-white
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-snug
+---
+// Новых добровольцев за день
+text-zinc-600
+text-2xl
+font-bold
+font-['Gilroy']
+uppercase
+leading-[50px]
+---
+// 21 486 человек
+text-white
+text-8xl
+font-bold
+font-['Gilroy']
+uppercase
+leading-[98px]
+---
+// Ты нужен родине
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Граждане прошедшие военную службу по призыву (контракту) и имеющие высшее профессиональное образование, родственное соответсвующей военно-учетной специальности, и поступившие на военную службу по контракту на воинскую должность, для которой штатом предусмотрено воинское звание офицера 
+text-stone-50
+text-lg
+font-normal
+font-['Manrope']
+leading-7
+---
+// прививается первое воинское звание офицера Лейтенант
+text-stone-50
+text-lg
+font-semibold
+font-['Manrope']
+leading-7
+---
+// Более 3000 военнослужащих заключивших первые (новые) контракты с Министерством обороны Российской Федерации через пункт отбора на военную службу по контракту г. Екатеринбурга  в 2022-2023 году выполняют специальные задачи в рамках Специальной военной операции и более 120 военнослужащих награждены государственными и ведомственными наградами
+text-stone-50
+text-lg
+font-normal
+font-['Manrope']
+leading-7
+---
+// ПРЕИМУЩЕСТВА СЛУЖБЫ ПО КОНТРАКТУ
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// Подпиши контракт с Министерством обороны РФ, прими участие <br/>в СВО и получи:
+text-zinc-600
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Единовременную выплату <br/>в размере 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// от
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+//  3 100 000 ₽
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// Ежемесячные выплаты 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// до
+text-zinc-100
+text-base
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+//  445 000 ₽  
+text-zinc-100
+text-2xl
+font-extrabold
+font-['Manrope']
+uppercase
+leading-tight
+---
+// Социальные льготы
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+//  <br/>и 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// страховую
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+//  защиту <br/>для 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// членов семьи
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+//  и 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// детей
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// Медицинское 
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// обслуживание <br/>в учреждениях <br/>Минобороны РФ
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// Кредитные каникулы, 
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// обеспечение жильем, бесплатное образование в вузах РФ 
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// Статус ветерана боевых действий, 
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// при выполнении условий
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// Служебное жильё, 
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// компенсация за наём
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// Поддержка <br/>при увольнении
+text-white
+text-base
+font-extrabold
+font-['Manrope']
+leading-tight
+---
+// , оформление инвалидности, увечье, травмы, контузии <br/>или гибели военнослужащего  
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-tight
+---
+// денежное
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// довольствие
+text-zinc-600
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[58px]
+---
+// Посмотреть список документов при подаче
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// в зависимости от воинского звания, должности, выслуги лет, уровня мастерства и региональных коэффициентов.
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-7
+---
+// При подписании контракта, граждане могут рассчитывать <br/>на дополнительные выплаты за участие в СВО, включая случаи травмы, ранении, увечье, инвалидности или гибели. <br/>В соответствии с законом 306-ФЗ, страховая выплата предоставляется в полном 
+text-zinc-400
+text-lg
+font-normal
+font-['Manrope']
+leading-7
+---
+// при заключении контракта на срок от одного года
+text-zinc-400
+text-lg
+font-semibold
+font-['Manrope']
+leading-normal
+---
+// Ежемесячная выплата по контракту
+text-zinc-600
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Выплаты за особые отличия
+text-zinc-600
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Единовременная выплата в размере
+text-zinc-600
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// от 210 000 ₽
+text-white
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[49px]
+---
+// в ходе боевых действий:
+text-white
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[49px]
+---
+// 3 100 000 ₽
+text-white
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[49px]
+---
+// БПЛА
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// Боевой машины пехоты (десанта)
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// Зенитно-ракетного комплекса (системы)
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// Системы залпового огня
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// 200 000 - 300 000 руб.
+text-white
+text-3xl
+font-bold
+font-['Gilroy']
+uppercase
+leading-loose
+---
+// 50 000 руб.
+text-white
+text-3xl
+font-bold
+font-['Gilroy']
+uppercase
+leading-loose
+---
+// Уничтожение вражеского самолета
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// 100 000 руб.
+text-white
+text-3xl
+font-bold
+font-['Gilroy']
+uppercase
+leading-loose
+---
+// Уничтожение вражеского танка
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// ДО 10 МЛН. ₽
+text-white
+text-3xl
+font-bold
+font-['Gilroy']
+uppercase
+leading-loose
+---
+// Списание кредитов: 
+text-zinc-400
+text-lg
+font-normal
+font-['Gilroy']
+leading-snug
+---
+// Возможность приобрести жилье за счет Минобороны РФ, в том числе через ипотечную программу
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Поддержка членам семьи в случае гибели военнослужащего при исполнении
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Служебное жилье или компенсация <br/>за найм жилья
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Право на льготную пенсию после 20 лет службы
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Статус ветерана боевых действий <br/>и соответствующие льготы
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Бесплатное обследование, лечение <br/>и реабилитация в военно-медицинских учреждениях страхование жизни и здоровья за счет федерального бюджета в случае травмы, увечья, инвалидности, контузии
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Дополнительные выплаты, предусмотренные 52-ФЗ, <br/>как на федеральном, так и на уровне регионов
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Кредитные и налоговые каникулы
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Бесплатный отдых детей в летних оздоровительных лагерях
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// За будущими контрактниками бронируются рабочие места
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Бюджетные места для обучения <br/>детей в вузах
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Единые дополнительные выплаты, льготы <br/>и гарантии от свердловской области для военнослужащих по контракту
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Социальные гарантии и льготы
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// военнослужащему и его семье
+text-zinc-600
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[58px]
+---
+// КАК ЗАКЛЮЧИТЬ КОНТРАКТ
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// Подпиши контракт с Министерством обороны РФ, прими участие <br/>в СВО и получи:
+text-zinc-600
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// 1. Оставьте заявку на сайте 
+text-white
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Мы свяжемся с Вами, расскажем подробности и ответим на вопросы (кнопка “оставить заявку”)
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Оставить заявку
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-snug
+---
+// 2.	Собрать необходимые документы
+text-white
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Обязательные документы: 
+<br/>
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+---
+// Копия паспорта
+<br/>Копия военного билета (для иностранных граждан – при наличии)
+<br/>Собственноручно написанная автобиография
+<br/>Копия документа об образовании
+<br/>Копия свидетельства о браке и о рождении детей
+<br/>Копия свидетельства о постановке на учет в налоговом органе
+<br/>справка из банка о банковских реквизитах для перечисления денежного довольствия
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+---
+// 3.	Медкомиссия <br/>и подписание контракта
+text-white
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Пройти медкомиссию и собеседование. После прохождения медицинского осмотра и подписания документов контрактник получает статус участника СВО.
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+---
+// 4.	Подготовка и убытие <br/>к месту службы
+text-white
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-loose
+---
+// Пройти обучение и отправиться к месту службы. Все контрактники, принятые <br/>на службу, обеспечиваются питанием, обеспечением, трансфером, страхованием, медицинским обслуживанием.
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+---
+// ФИО*
+text-stone-300
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-normal
+tracking-tight
+---
+// Гражданство*
+text-stone-300
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-normal
+tracking-tight
+---
+// Номер телефона*
+text-stone-300
+text-base
+font-bold
+font-['Manrope']
+uppercase
+leading-normal
+tracking-tight
+---
+// Я даю свое согласие на 
+text-white
+text-xs
+font-medium
+font-['Manrope']
+leading-normal
+tracking-tight
+---
+// обработку персональных данных
+text-white
+text-xs
+font-medium
+font-['Manrope']
+underline
+leading-normal
+tracking-tight
+---
+// Бесплатно по всей России
+text-white
+text-xl
+font-medium
+font-['Manrope']
+leading-10
+tracking-tight
+---
+// Отправить данные
+text-white
+text-base
+font-medium
+font-['Manrope']
+leading-none
+---
+// Если ты готов заключить контракт и защитить родину, заполни форму
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-10
+---
+// Иван
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+tracking-tight
+---
+// Гражданство РФ
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+tracking-tight
+---
+// 8 900 000 00 00
+text-stone-300
+text-base
+font-medium
+font-['Manrope']
+leading-normal
+tracking-tight
+---
+// +7 (343) 229-05-11
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[49px]
+---
+// +7 (343) 374-55-33
+text-white
+text-3xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[49px]
+---
+// 112
+text-white
+text-6xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[88.32px]
+---
+// заполни заявление На портале гос. услуг
+text-white
+text-base
+font-bold
+font-['Gilroy']
+uppercase
+leading-normal
+---
+// Военные комиссариаты свердловской области
+text-white
+text-base
+font-bold
+font-['Gilroy']
+uppercase
+leading-normal
+---
+// Получи больше информации<br/>на сайте министерства обороны
+text-white
+text-base
+font-bold
+font-['Gilroy']
+uppercase
+leading-normal
+---
+// Перейти на портал
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Посмотреть все комиссариаты
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Узнать больше
+text-white
+text-sm
+font-medium
+font-['Manrope']
+leading-snug
+---
+// Оружие
+text-white
+text-lg
+font-medium
+font-['Gilroy']
+uppercase
+leading-snug
+---
+// Бронежилет
+text-white
+text-lg
+font-medium
+font-['Gilroy']
+uppercase
+leading-snug
+---
+// Аптечка
+text-white
+text-lg
+font-medium
+font-['Gilroy']
+uppercase
+leading-snug
+---
+// экипировка
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// военного
+text-zinc-600
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[58px]
+---
+// универсальный рюкзак
+text-white
+text-lg
+font-medium
+font-['Gilroy']
+uppercase
+leading-snug
+---
+// МОТОСТРЕЛКОВЫЕ ВОЙСКА
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+leading-loose
+---
+// ТАНКОВЫЕ ВОЙСКА
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+leading-loose
+---
+// РАКЕТНЫЕ ВОЙСКА
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+leading-loose
+---
+// ВОЙСКА ПРОТИВОВОЗДУШНОЙ ОБОРОНЫ
+text-white
+text-2xl
+font-semibold
+font-['Manrope']
+leading-loose
+---
+// этапы
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// подготовки
+text-zinc-600
+text-4xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[58px]
+---
+// 01-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Отработка учебных задач (нормативов) в ходе практических занятий является обязательным
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// 02-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Тренировки проводятся с целью выработки практических навыков у военнослужащих и слаженных действий по выполнению боевых задач подразделениями и воинскими частями
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// 03-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Тактико-строевое занятие – предназначено для отработки тактических приемов и способов действий солдат и подразделений в ходе отработки тактических нормативов со строгим соблюдением принципа «от простого к сложному»
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// 04-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Практическая отработка мероприятий приведение в высшую степень боевой готовности, порядка действия по степеням боевой готовности в реальном масштабе времени (час за час) на едином тактическом фоне, с максимальным задействованием техники, в условиях реальной укомплектованности личным составом и обеспеченности материальными средствами.
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// 05-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Комплексное занятие– основная форма практической подготовки военнослужащих, смен, расчетов по выполнению всего объема должностных и специальных обязанностей в мирное и военное время.
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// 06-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Выход подразделения на полигон – форма подготовки подразделений для отработки вопросов полевой выучки, действий при вооружении и на боевой технике с обязательной отработкой положенных нормативов.
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// 07-
+text-zinc-300
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// Полевой выход– комплексная практическая форма обучения воинских частей и подразделений для повышения полевой выучки.
+text-white
+text-base
+font-normal
+font-['Manrope']
+leading-relaxed
+---
+// наши герои
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Никита Соколов
+text-white
+text-base
+font-bold
+font-['Gilroy']
+leading-normal
+---
+// Награды за СВО
+text-white
+text-lg
+font-bold
+font-['Gilroy']
+leading-normal
+---
+// Танковые войска
+text-neutral-400
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Медаль «За трудовую доблесть»
+text-neutral-400
+text-xs
+font-normal
+font-['Gilroy']
+leading-none
+---
+// Медаль «За разминирование»
+text-neutral-400
+text-xs
+font-normal
+font-['Gilroy']
+leading-none
+---
+// Медаль «За боевые отличия»
+text-neutral-400
+text-xs
+font-normal
+font-['Gilroy']
+leading-none
+---
+// Медаль «За воинскую доблесть»
+text-neutral-400
+text-xs
+font-normal
+font-['Gilroy']
+leading-none
+---
+// 5 марта 2023 год
+text-white
+text-xs
+font-semibold
+font-['Gilroy']
+leading-snug
+---
+// 01-
+text-neutral-600
+text-8xl
+font-normal
+font-['Manrope']
+leading-[146.96px]
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa?
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa?
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa?
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa?
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa?
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa?
+text-white
+text-base
+font-normal
+font-['Gilroy']
+leading-normal
+---
+// ответы на вопросы
+text-white
+text-5xl
+font-bold
+font-['Manrope']
+uppercase
+leading-[66px]
+---
+// Адрес центрального комиссариата
+text-white
+text-sm
+font-semibold
+font-['Gilroy']
+leading-snug
+---
+// 620014, Екатеринбург, ул. Бакинских Комиссаров д. 173
+text-white
+text-xl
+font-bold
+font-['Manrope']
+leading-normal
+---
+// Вакансии
+text-white
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Условия
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Довольствие
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Выплаты
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Комиссариаты
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Контакты
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Ответы на вопросы 
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Экипировка
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Награды за СВО
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+//  Блог 
+text-neutral-400
+text-sm
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Где выгоднее?
+text-neutral-400
+text-xs
+font-bold
+font-['Manrope']
+leading-snug
+---
+//  Как подписать?
+text-neutral-400
+text-xs
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Вакансии на СВО 
+text-neutral-400
+text-xs
+font-bold
+font-['Manrope']
+leading-snug
+---
+// Поступай на службу по контракту от Свердловской области!
+text-white
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// Политика конфиденциальности
+text-white
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// 2020-2023
+text-stone-300
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// Адрес в г. Екатеринбург, где можно заключить свой первый либо новый контракт с Министерством обороны Российской Федерации 
+text-white
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// ул. Бакинских Комиссаров д. 173
+text-white
+text-base
+font-semibold
+font-['Manrope']
+leading-normal
+---
+// Телефон:
+text-white
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// +7 (343) 211-30-19       
+text-white
+text-2xl
+font-bold
+font-['Manrope']
+uppercase
+leading-normal
+---
+// email:
+text-white
+text-xs
+font-normal
+font-['Manrope']
+leading-none
+---
+// info@svo-kontrakt.ru  
+text-white
+text-base
+font-bold
+font-['Manrope']
+leading-none
