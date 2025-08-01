@@ -8,10 +8,14 @@ import ServiceConditions from './components/ServiceConditions/ServiceConditions'
 import NewVolunteers from './components/NewVolunteers/NewVolunteers';
 import ServiceDetails from './components/ServiceDetails/ServiceDetails';
 import ContractAdvantages from './components/ContractAdvantages/ContractAdvantages';
+import FinancialAllowance from './components/FinancialAllowance/FinancialAllowance';
+import SocialGuarantees from './components/SocialGuarantees/SocialGuarantees';
+import HowToApply from './components/HowToApply/HowToApply';
+import ContactFormSection from './components/ContactFormSection/ContactFormSection';
 
 function App() {
   return (
-    <div className="App bg-neutral-900">
+    <div className="App bg-brand-gray-darker">
       <Header />
       <Hero />
       <Vacancies />
@@ -21,6 +25,10 @@ function App() {
       <NewVolunteers />
       <ServiceDetails />
       <ContractAdvantages />
+      <FinancialAllowance />
+      <SocialGuarantees />
+      <HowToApply />
+      <ContactFormSection />
     </div>
   );
 }
