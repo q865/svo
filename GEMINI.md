@@ -3,6 +3,7 @@
 ---
 GitHub Repository: git@github.com:q865/svo.git
 ./src/assets/Главная.pdf - пример сайта как должен выглядить
+тех задание - https://docs.google.com/document/d/1wLnfV63NhEjvJljh70xOaVegriqlmudKUurfQPHnwyw/edit?tab=t.sdtnv7pwzaf0#heading=h.n5cpwwrbuiuf
 ---
 **Техническое задание:**
 
