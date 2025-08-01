@@ -1,10 +1,12 @@
 import React from 'react';
 import logo from '../../assets/images/logo.png';
-import { ReactComponent as RoomIcon } from '../../assets/icons/Room.svg'; // Assuming you have a chevron icon
+import { ReactComponent as RoomIcon } from '../../assets/icons/Room.svg';
+import { ReactComponent as ChevronDown } from '../../assets/icons/Vector 84.svg';
 
-const NavLink = ({ children, active = false }) => (
-  <a href="#" className="text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug relative pb-1">
+const NavLink = ({ children, active = false, withChevron = false }) => (
+  <a href="#" className="text-neutral-200 text-xs font-semibold font-['Manrope'] leading-snug relative pb-1 flex items-center">
     {children}
+    {withChevron && <ChevronDown className="ml-1.5" />}
     {active && <span className="absolute bottom-0 left-0 w-full h-[1.5px] bg-red-600"></span>}
   </a>
 );
@@ -21,7 +23,7 @@ const Header = () => {
             </div>
             <div className="pl-4">
               <p className="text-white text-opacity-70 text-[9px] font-normal leading-none max-w-[150px]">
-                Поступай на службу по контракту от Свердловской области!
+                Поступай на службу по контракту<br/>от Свердловской области!
               </p>
             </div>
           </div>
@@ -31,7 +33,9 @@ const Header = () => {
               <RoomIcon className="w-3.5 h-3.5 mr-2" />
               <div>
                 <p className="text-neutral-200 text-sm font-semibold leading-tight">Хабаровск</p>
-                <p className="text-neutral-400 text-[10px] font-normal leading-tight cursor-pointer hover:text-white">Выбрать другой город</p>
+                <p className="text-neutral-400 text-[10px] font-normal leading-tight cursor-pointer hover:text-white flex items-center">
+                  Выбрать другой город <ChevronDown className="ml-1.5" />
+                </p>
               </div>
             </div>
             <div className="flex items-center px-6 h-full border-r border-neutral-800">
@@ -64,9 +68,9 @@ const Header = () => {
           <nav>
             <ul className="flex items-center space-x-12">
               <li><NavLink active>Вакансии</NavLink></li>
-              <li><NavLink>Условия приема</NavLink></li>
+              <li><NavLink withChevron>Условия приема</NavLink></li>
               <li><NavLink>Денежное довольствие</NavLink></li>
-              <li><NavLink>Выплаты и соц гарантии</NavLink></li>
+              <li><NavLink withChevron>Выплаты и соц гарантии</NavLink></li>
               <li><NavLink>Военные комиссариаты</NavLink></li>
               <li><NavLink>Наши герои</NavLink></li>
               <li><NavLink>Контакты</NavLink></li>
