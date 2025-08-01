@@ -1,5 +1,4 @@
 проект должен использовать php на backand на фронте react mobx tailwild 
-первое что нужно сделать точный компонент header 
 ---
 GitHub Repository: git@github.com:q865/svo.git
 ./src/assets/Главная.pdf - пример сайта как должен выглядить

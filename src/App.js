@@ -12,6 +12,12 @@ import FinancialAllowance from './components/FinancialAllowance/FinancialAllowan
 import SocialGuarantees from './components/SocialGuarantees/SocialGuarantees';
 import HowToApply from './components/HowToApply/HowToApply';
 import ContactFormSection from './components/ContactFormSection/ContactFormSection';
+import Equipment from './components/Equipment/Equipment';
+import TrainingStages from './components/TrainingStages/TrainingStages';
+import OurHeroes from './components/OurHeroes/OurHeroes';
+import Faq from './components/Faq/Faq';
+import CommissariatMap from './components/CommissariatMap/CommissariatMap';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -29,6 +35,12 @@ function App() {
       <SocialGuarantees />
       <HowToApply />
       <ContactFormSection />
+      <Equipment />
+      <TrainingStages />
+      <OurHeroes />
+      <Faq />
+      <CommissariatMap />
+      <Footer />
     </div>
   );
 }

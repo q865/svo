@@ -38,25 +38,27 @@ const Header = () => {
                 </p>
               </div>
             </div>
-            <div className="flex items-center px-6 h-full border-r border-brand-gray-dark">
-              <div>
-                <p className="text-brand-white text-base font-bold uppercase leading-tight">+7 (343) 229-05-11</p>
-                <p className="text-brand-white text-base font-bold uppercase leading-tight">+7 (343) 374-55-33</p>
+            <div className="flex items-center">
+              <div className="flex items-center px-6 h-full border-r border-brand-gray-dark">
+                <div>
+                  <p className="text-brand-white text-base font-bold uppercase leading-tight">+7 (343) 229-05-11</p>
+                  <p className="text-brand-white text-base font-bold uppercase leading-tight">+7 (343) 374-55-33</p>
+                </div>
               </div>
-            </div>
-             <div className="flex items-center px-6 h-full border-r border-brand-gray-dark">
-              <p className="text-brand-white text-lg font-bold uppercase leading-tight mr-2">112</p>
-              <p className="text-brand-white text-opacity-60 text-xs font-normal leading-none max-w-[80px]">
-                бесплатно
-                <br />
-                по всей России
-              </p>
+              <div className="flex items-center px-6 h-full border-r border-brand-gray-dark">
+                <p className="text-brand-white text-lg font-bold uppercase leading-tight mr-2">112</p>
+                <p className="text-brand-white text-opacity-60 text-xs font-normal leading-none max-w-[80px]">
+                  бесплатно
+                  <br />
+                  по всей России
+                </p>
+              </div>
             </div>
           </div>
 
           <div className="flex items-center h-full">
              <div className="px-6 h-full flex items-center border-l border-brand-gray-dark">
-               <button className="px-3.5 py-2 bg-brand-red text-brand-white text-xs font-medium leading-snug">
+               <button className="px-6 py-3 bg-brand-red text-brand-white text-xs font-medium leading-snug">
                 Заполнить форму на службу
               </button>
              </div>
@@ -66,7 +68,7 @@ const Header = () => {
         {/* Bottom Bar - Navigation */}
         <div className="h-14 flex items-center justify-center border-b border-brand-gray-dark">
           <nav>
-            <ul className="flex items-center space-x-12">
+            <ul className="flex items-center space-x-8">
               <li><NavLink active>Вакансии</NavLink></li>
               <li><NavLink withChevron>Условия приема</NavLink></li>
               <li><NavLink>Денежное довольствие</NavLink></li>
